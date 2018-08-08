@@ -1,0 +1,6 @@
+#
+ml:
+  clientID: 1174015526271545
+  clientSecret: vGqjOhQDMVnQw7IZZPSMh0MKWIUrbPIQ
+  redirect:
+    uri: http://localhost:8080/v1/mercadolivre/redirect
